@@ -3,4 +3,4 @@
 ## CONTENT
 - Created README.md
 - Added .gitignore to ignore .python-version file
-- Created new branch to make my first feature
+- Created a new branch to demonstrate child branch usage.
