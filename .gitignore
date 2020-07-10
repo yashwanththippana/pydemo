@@ -1,2 +1,8 @@
 # Ignore application specific virtual env declaration file
 .python-version
+
+# Ignore pycharm generated files
+.idea/
+
+# Ignore pycache files
+src/__pycache__/*
